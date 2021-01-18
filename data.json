@@ -1,5 +1,5 @@
 {
-   "WindupPercent": {
+   "winduppercent": {
       "Aatrox": 0.1974,
       "Ahri": 0.2005,
       "Akali": 0.139,
@@ -156,7 +156,21 @@
       "Zoe": 0.1615,
       "Zyra": 0.1458
    },
-   "WindupModifier": {
+   "windupmodifier": {
+      "Darius": 0.5,
+      "Garen": 0.5,
+      "Graves": 0.1,
+      "Jayce": 0.005,
+      "Kalista": 0.75,
+      "Mordekaiser": 0.5,
+      "Rell": 0.4,
+      "Senna": 0.6,
+      "Skarner": 0.5,
+      "Taric": 0.25,
+      "Thresh": 0.25
+
+   }
+   "attackrange": {
       "Darius": 0.5,
       "Garen": 0.5,
       "Graves": 0.1,
