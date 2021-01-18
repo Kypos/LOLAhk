@@ -169,7 +169,7 @@
       "Taric": 0.25,
       "Thresh": 0.25
 
-   }
+   },
    "attackrange": {
       "Darius": 0.5,
       "Garen": 0.5,
@@ -182,6 +182,5 @@
       "Skarner": 0.5,
       "Taric": 0.25,
       "Thresh": 0.25
-
    }
 }
